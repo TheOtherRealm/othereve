@@ -1,0 +1,30 @@
+{
+  "name": "othereve",
+  "version": "1.0.0",
+  "description": "This is an event listing service that shows such events on a map.  It is for primarily Live Action Roleplaying (LARP) Games to begin with, but can be used for publicizing any event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOtherRealm/othereve.git"
+  },
+  "keywords": [
+    "event",
+    "events",
+    "larp",
+    "rpg",
+    "map",
+    "events",
+    "larp",
+    "rpg",
+    "map"
+  ],
+  "author": "Aaron E-J",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheOtherRealm/othereve/issues"
+  },
+  "homepage": "https://github.com/TheOtherRealm/othereve#readme"
+}
