@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/TheOtherRealm/othereve/issues"
   },
-  "homepage": "https://github.com/TheOtherRealm/othereve#readme"
+  "homepage": "https://github.com/TheOtherRealm/othereve#readme",
+  "dependencies": {
+    "leaflet": "^1.3.4"
+  }
 }
